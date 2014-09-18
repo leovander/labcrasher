@@ -22,7 +22,7 @@
       </div>
 
       <div class="jumbotron">
-        <h3>Computer Engineering &amp; Science</h3>
+        <p>Computer Engineering &amp; Science</p>
         <p>Choose College Below</p>
         <form>
 			<select class="form-control" id="colleges">
