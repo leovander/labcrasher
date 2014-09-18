@@ -22,7 +22,7 @@
       </div>
 
       <div class="jumbotron">
-        <p>Choose</p>
+        <p>Chooses</p>
         <p>Choose College Below</p>
         <form>
 			<select class="form-control" id="colleges">
